@@ -60,3 +60,14 @@ footer {
     font-size: 0.9em;
     color: #777;
 }
+
+figure {
+    margin: 30px auto;
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #555;
+}
